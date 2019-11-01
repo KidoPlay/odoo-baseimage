@@ -6,8 +6,6 @@ ENV LANG C.UTF-8
 
 WORKDIR /app
 
-# 切换成腾讯云的源，加速构建
-COPY ./deploy/sources.list /etc/apt/sources.list
 COPY ./deploy/pip.conf ~/.pip/pip.conf
 COPY ./deploy/wkhtmltox_0.12.5-1.stretch_amd64.deb ./wkhtmltox.deb
 

@@ -1,8 +1,0 @@
-deb http://mirrors.tencentyun.com/debian buster main contrib non-free
-deb http://mirrors.tencentyun.com/debian buster-updates main contrib non-free
-#deb http://mirrors.tencentyun.com/debian buster-backports main contrib non-free
-#deb http://mirrors.tencentyun.com/debian buster-proposed-updates main contrib non-free
-deb-src http://mirrors.tencentyun.com/debian buster main contrib non-free
-deb-src http://mirrors.tencentyun.com/debian buster-updates main contrib non-free
-#deb-src http://mirrors.tencentyun.com/debian buster-backports main contrib non-free
-#deb-src http://mirrors.tencentyun.com/debian buster-proposed-updates main contrib non-free
